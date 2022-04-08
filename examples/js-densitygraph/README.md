@@ -1,4 +1,4 @@
-# Area Chart
+# Density Chart 
 
 This is a complex mod example demonstrating an area chart rendered with `d3` and bundled with `Webpack`.
 
